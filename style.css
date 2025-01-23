@@ -481,6 +481,11 @@ a {
   flex-direction: row;
   justify-content: space-around;
 }
+.Appo i{
+  color: white;
+  margin-left: 10px"
+}
+
 .form {
   background-color: rgb(239, 245, 255);
   display: flex;
@@ -700,36 +705,6 @@ ul li {
   color: white;
   font-weight: bold;
 }
-/* .news input {
-  height: 60px;
-  width: 250px;
-  border-radius: 10px;
-  font-family: sans-serif;
-  font-size: 20px;
-  margin-left: 25px;
-  position: absolute;
-  padding-left: 20px;
-}
-.signup button {
-  border-radius: 10px;
-  font-size: 18px;
-  color: white;
-  height: 40px;
-  width: 80px;
-  background-color: rgb(4, 99, 250);
-  border: 1px white;
-  align-items: center;
-  justify-content: center;
-  position: relative;
-  margin-top: 13px;
-  margin-left: 190px;
-}
-.news p{
-  margin-bottom: 40px;
-} */
-
-
-
 .ser ul li span:hover{
   color: blue;
   scale: 1.1;
